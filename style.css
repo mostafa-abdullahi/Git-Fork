@@ -1,0 +1,6 @@
+body{
+  background-color: $primaryClr;
+  color: $secondaryClr;
+  font-size: 16px;
+  margin: 0;
+}
